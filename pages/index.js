@@ -25,9 +25,8 @@ export default function Home({ allPostsData }) {
           Hello 👋🏼 <strong>I'm Juan Pablo. </strong>
         </p>
         <p>
-          I'm an industrial engineer, and web development student at Platzi. You
-          can contact me on{" "}
-          <a href="https://twitter.com/jpmoyacastillo">Twitter</a>
+          I'm an industrial engineer, and web development student. You can
+          contact me on <a href="https://twitter.com/jpmoyacastillo">Twitter</a>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
